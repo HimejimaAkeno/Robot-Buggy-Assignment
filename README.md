@@ -9,4 +9,4 @@
 ##### Enter the host address and then get into the Linux command prompt thing with your username and password
 ![image of linux command prompt](https://tutorials-raspberrypi.de/wp-content/uploads/2014/03/putty2.png)
 ##### Type in "touch robot.py", then use "ls" command to check and see if you created this "robot.py" file.
-![image of coding](https://photos.google.com/photo/AF1QipPSlg1iyuyCDxJ9ptlAv4q95PNmSeNP7Ele-r8b)
+![image of coding]()
