@@ -2,6 +2,8 @@
 ### All the steps come from following websites:
   * ##### "How to build a robot buggy" [Link to the website](https://projects.raspberrypi.org/en/projects/build-a-buggy)
   * ##### "How to romotedly control a robot buggy" [Link to the website](https://projects.raspberrypi.org/en/projects/remote-control-buggy)
+### Building Part:
+##### Connect the motor to Output 1, 2, 3, 4.
 
 ### Coding Part:
 ##### First of all, connect your raspberry pi to your computer and then open PuTTY
