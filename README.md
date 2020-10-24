@@ -4,7 +4,7 @@
   * ##### "How to romotedly control a robot buggy" [Link to the website](https://projects.raspberrypi.org/en/projects/remote-control-buggy)
 ### Building Part:
 ##### Connect the motor to Output 1, 2, 3, 4. Then, connect the "explorer" to your raspberry pi.
-![image of picture](https://lh3.googleusercontent.com/QVVzxs8ipAUBBIrdVXhkJtsblG5WojwVo_avW7RoY0IB2Lm-h4Lxw-bpGdDKNOEvJVUmvBn9fgki6z_7s-Jl0C7PICzJ-B6RY7RmdingdPiVftnT_hP6DGv0GT1jlifwI3W66wDQmea_reayzpS8FdxN0bz72f7_FxdXIGhgeJq0dCeoGX2HSSEAMf8vtSpxuxrwUQguA9H9OWGgUJUpB_qu34VDfBVgxvQPZjk3zngTqDys1am6p1HbZt7eqwn6j7oHCsW55m1O4kICMzCRZB9jnTxqyMd3UeZNbpGttf8FwSiZ3WLaptXlReehvNwdNGPIYQZ_UNdU9jCaM1eCDaWH5p-gItpNkq0_StvYtp3s4j-lJ_q_JMQE7Hcm1CM9OFgbbbFhWuPir3sEGrCaLzR9jPenhgMX8ddbSvyeD0h-L-JgO-jPpCtYMEwPuxMQrYRq3MsRzqXcYOLGtYVSerV9Crgjqd-rcd84xo77wquxXzVdCoJzLpez18Sxc_uQBZ6O193SVtQkrjwKPxdZRj_c8CH80xnQMXg6cAJBvDnx37e7qW58Oet1rjzdeeWY_XNTqlHJlo5yTslLDSnc93adHX6ClvGGTZgISpcvotqLaRU2jSKl5eCyQDWws9mVAaBRY0aOmT_nCTPkEZBKoHHvMudMVKT1j9r-gUtAFbCs3vNeh6DFBrvOSNJpGw=w1157-h867-no?authuser=0)
+![image of picture](https://timacw.weebly.com/uploads/1/3/2/1/132123452/step-1_orig.jpg)
 ##### Connect the raspberry pi to the laptop and connect the battery to the raspberry pi.
 
 ### Coding Part:
