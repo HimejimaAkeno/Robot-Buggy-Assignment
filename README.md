@@ -3,7 +3,7 @@
   * ##### "How to build a robot buggy" [Link to the website](https://projects.raspberrypi.org/en/projects/build-a-buggy)
   * ##### "How to romotedly control a robot buggy" [Link to the website](https://projects.raspberrypi.org/en/projects/remote-control-buggy)
 ### Building Part:
-##### Connect the motor to Output 1, 2, 3, 4. Then, connect the "explorer" to your raspberry pi.
+##### Connect the motor to Motor 1, 2. Then, connect the "explorer" to your raspberry pi.
 ![image of picture](https://timacw.weebly.com/uploads/1/3/2/1/132123452/step-1_orig.jpg)
 ##### Connect the raspberry pi to the laptop and connect the battery to the raspberry pi.
 
