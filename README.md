@@ -1,7 +1,7 @@
 # Instructions to make a robot buggy:
 ### All the steps come from following websites:
-  * ##### "How to build a robot buggy" [Link to the website](https://projects.raspberrypi.org/en/projects/build-a-buggy)
-  * ##### "How to romotedly control a robot buggy" [Link to the website](https://projects.raspberrypi.org/en/projects/remote-control-buggy)
+  * ##### "How to build a robot buggy with explorerhat" [Link to the website](https://projects.raspberrypi.org/en/projects/explorer-hat-buggy)
+
 ### Building Part:
 ##### Connect the motor to Motor 1, 2. Then, connect the "explorer" to your raspberry pi.
 ![image of picture](https://timacw.weebly.com/uploads/1/3/2/1/132123452/step-1_orig.jpg)
