@@ -14,4 +14,4 @@
 ##### Type in exactly what is in the following image:
 
 ##### Type in "touch robot.py", then use "ls" command to check and see if you created this "robot.py" file.
-![image of coding]()
+![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/ls-command_orig.png)
