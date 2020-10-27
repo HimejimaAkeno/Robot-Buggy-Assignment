@@ -3,9 +3,8 @@
   * ##### "How to build a robot buggy with explorerhat" [Link to the website](https://projects.raspberrypi.org/en/projects/explorer-hat-buggy)
 
 ### Building Part:
-##### Connect the motor to Motor 1, 2. Then, connect the "explorer" to your raspberry pi.
-![image of picture](https://timacw.weebly.com/uploads/1/3/2/1/132123452/step-1_orig.jpg)
-##### Connect the raspberry pi to the laptop and connect the battery to the raspberry pi.
+##### Connect the motor to Motor 1, 2. Then, connect the "explorer" to your raspberry pi. Also Connect the raspberry pi to the laptop and connect the battery to the raspberry pi.
+![image of picture](https://timacw.weebly.com/uploads/1/3/2/1/132123452/1_orig.jpg)
 
 ### Coding Part:
 ##### First of all, connect your raspberry pi to your computer and then open PuTTY 
