@@ -16,7 +16,7 @@
 ##### Type in "touch robot.py", then use "ls" command to check and see if you created this "robot.py" file.
 ![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/ls-command_orig.png)
 
-##### Type in the following commands:
+### Type in the following commands:
 ##### sudo pip3 install explorerhat
 ##### sudo apt install python3-tk
 ##### pip3 install guizero
