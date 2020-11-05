@@ -18,9 +18,8 @@
 
 ### Type in the following commands:
 ##### "sudo pip3 install explorerhat"
-##### "sudo apt install python3-tk"
-##### "pip3 install guizero"
 
 
 ##### Type in the following code into your "robot.py"
-![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/code-part_orig.png)
+![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/code-part-1_orig.png)
+![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/code-part-2_orig.png)
