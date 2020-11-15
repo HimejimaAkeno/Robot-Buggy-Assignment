@@ -25,3 +25,6 @@
 ### Building Part:
 ##### Design a container to hold all the stuff inside and then 3D-Print it.
 ![image of 3d](https://timacw.weebly.com/uploads/1/3/2/1/132123452/3d_orig.jpg)
+
+##### Next, solder the motor and the case together like this:
+![image of solder](https://timacw.weebly.com/uploads/1/3/2/1/132123452/solder_orig.jpg)
