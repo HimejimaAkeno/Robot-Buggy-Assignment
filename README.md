@@ -19,8 +19,7 @@
 
 
 ##### Type in the following code into your "robot.py"
-![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/code-part-1_orig.png)
-![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/code-part-2_orig.png)
+![image of coding](https://timacw.weebly.com/uploads/1/3/2/1/132123452/coding-part_orig.png)
 
 ### Building Part:
 ##### Design a container to hold all the stuff inside and then 3D-Print it.
@@ -28,3 +27,6 @@
 
 ##### Next, solder the motor and the case together like this:
 ![image of solder](https://timacw.weebly.com/uploads/1/3/2/1/132123452/solder_orig.jpg)
+
+##### Finally, assemble your robot and have fun!
+![image of assemble](https://timacw.weebly.com/uploads/1/3/2/1/132123452/motor-photo_orig.jpg)
